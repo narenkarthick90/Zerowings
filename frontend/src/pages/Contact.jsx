@@ -110,7 +110,7 @@ export default function Contact() {
                   <div className="info-content">
                     <h3>Phone</h3>
                     <p>
-                      <a href="tel:+919080539953">+91 90805 39953</a>
+                      <a href="tel:+919150402987">+91 9150402987</a>
                     </p>
                   </div>
                 </div>
